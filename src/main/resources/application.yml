@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:h2:file:./db/fiap;DB_CLOSE_ON_EXIT=FALSE;DB_CLOSE_DELAY=-1;
+    username:
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  h2:
+    console:
+      path: /h2
+      enabled: true
+
+file:
+  input: classpath:massa/lista_alunos.txt

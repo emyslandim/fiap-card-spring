@@ -1,0 +1,10 @@
+Purchase
+
+{
+  "data": "2020-04-03T19:55:51.889Z",
+  "description": "Compra Teste",
+  "id": 1,
+  "value": 1
+}
+
+idCard = 1

@@ -1,0 +1,6 @@
+{
+  "haveCard": true,
+  "id": 1,
+  "name": "Eduardo",
+  "rm": "123456"
+}
